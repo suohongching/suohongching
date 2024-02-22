@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="new_user_signup">New User? <b>SignUp</b></string>
+    <string name="Enter_note">Enter Note</string>
+    <string name="done">Done</string>
+    <string name="title_note">Title Note</string>
+</resources>
